@@ -15,6 +15,8 @@ Because this is a configuration-only assignment, there are no artifacts to submi
 ## Assignment 2: Enable GitHub Copilot
 In this assignment, you'll enable GitHub Copilot for your GitHub account. You'll also install the GitHub Copilot extension for Visual Studio Code.
 
+-- May I suggest you consider updating some of these early lectures to provide AWS CodeWhisperer as a free alternative to Co-pilot. It's individual plan is free.
+
 ### Steps
 1. [Sign up for GitHub Copilot](https://techcommunity.microsoft.com/t5/educator-developer-blog/step-by-step-setting-up-github-student-and-github-copilot-as-an/ba-p/3736279?WT.mc_id=academic-0000-alfredodeza)
 2. Install the [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot&WT.mc_id=academic-0000-alfredodeza) extension for Visual Studio Code.
