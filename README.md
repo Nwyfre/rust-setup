@@ -40,6 +40,7 @@ Assignment: [Setting-up-your-text-editor](./lab.md#assignment-1-install-rust-wit
 ### Lesson 2: Using AI pair-programming
 - [GitHub Copilot](https://docs.github.com/en/copilot/quickstart)
 - [Copilot for Students and Educators](https://aka.ms/Copilot4Students)
+- [AWS CodeWhisperer - Free AI pair-programming option](https://aws.amazon.com/codewhisperer/)
 - [Introduction to GitHub Copilot](https://learn.microsoft.com/training/modules/introduction-to-github-copilot/?WT.mc_id=academic-0000-alfredodeza)
 
 Assignment: [Enable GitHub Copilot](./lab.md#Assignment-2-Enable-GitHub-Copilot)
